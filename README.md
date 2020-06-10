@@ -9,7 +9,7 @@ ADA Laboratory Work Nr.1 st.gr. TI-191M Iuzvac Anatolie
 
     Busy execution time - 15.895 seconds
 
-2. Created lab1_openmp.c and parallelized the execution of **sleepy_fibonacci** and **busy_fibonacci**, logged times for proposed thread numbers : 
+2. Created lab1_openmp.c and parallelized the execution of **sleepy_fibonacci** and **busy_fibonacci** usin **OpenMP**, logged times for proposed thread numbers : 
 
 | Număr fire        | 1           |   2    |   4    |    8   |    16  |   32   |
 | ----------------- |-------------| ------ | ------ | ------ | ------ | ------ |
